@@ -1,0 +1,14 @@
+.result-content-wrapper-output {
+    display: none;
+}
+.result-content-wrapper-output > * {
+    display: none;
+}
+
+.main-content-wrapper {
+    display:flex;
+    padding: 1rem;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
